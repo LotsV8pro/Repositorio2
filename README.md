@@ -11,3 +11,14 @@ Listas ordenadas
 
 1. Primer elemento  
 2. Segundo elemento 
+
+Listas desordenadas
+
+* Primer elemento
+* Segundo elemento
+- Tercer elemento
+- Cuarto elemento 
+    1. Primer subelemento
+    2. Segundo subelemento
++ Quinto elemento 
++ Sexto elemento
