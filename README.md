@@ -42,4 +42,11 @@ Esto es un parrafo ssssssssssssssssssss ssssssssssssssssssssssssssss sssssssssss
 |----------|:----------:|----------:|
 |Col 2 es|centrada|$500|
 |Col 3 es|Derecha|$1500|
+|col 3 es|Derecha|$4|
+|Final|Hola|$300|
 
+###### Examen
+
+-[] Opcion A
+-[X] Opcion B
+-[] Opcion C
