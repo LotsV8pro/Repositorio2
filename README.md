@@ -40,3 +40,4 @@ Esto es un parrafo ssssssssssssssssssss ssssssssssssssssssssssssssss sssssssssss
 
 |Titulo |Alineacion |Precios |
 |----------|:----------:|----------:|
+|Col 3 es|centrada|$500|
