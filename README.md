@@ -47,6 +47,6 @@ Esto es un parrafo ssssssssssssssssssss ssssssssssssssssssssssssssss sssssssssss
 
 ###### Examen
 
--[] Opcion A
+-[ ] Opcion A
 -[X] Opcion B
--[] Opcion C
+-[ ] Opcion C
