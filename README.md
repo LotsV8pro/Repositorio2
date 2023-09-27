@@ -38,3 +38,5 @@ Esto es un parrafo ssssssssssssssssssss ssssssssssssssssssssssssssss sssssssssss
 
 ![Imagen motorfest](https://github.com/LotsV8pro/Repositorio2/blob/main/aaaaaaa.png "Jesko")
 
+|Titulo |Alineacion |Precios |
+|----------|:----------:|----------:|
